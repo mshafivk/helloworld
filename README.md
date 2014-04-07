@@ -1,0 +1,1 @@
+This is a sample Blog application created using ember js and handlebars
